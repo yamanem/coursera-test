@@ -1,15 +1,13 @@
 h1 {
-  margin-bottom: 15px;
   color: blue;
   position: center;
 }
 h2 {
-  margin-bottom: 15px;
   color: orange;
   position: right;
 }
 
 body {
-  background-color: gray;
-  font-size: 130%;
+  background-color: green;
+  font-size: 80%;
 }
