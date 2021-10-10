@@ -7,3 +7,6 @@ body {
 div {
 color: blue;	
 }
+div.small {
+	font-size: 10px;
+}
